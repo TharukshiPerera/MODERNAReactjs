@@ -1,0 +1,47 @@
+.img-about{
+    height: 400px;
+    width: 550px;   
+}
+.section-about{
+    padding-top: 90px;
+}
+.section-about .row{
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.section-about p{
+    color: #000;
+}
+.projectsblock{
+    background-color: #d3e6f0;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+}
+.projectsblock p{
+    color: #fff;
+}
+.projectsblock .number{
+    font-size: 50px;
+    color: #68A4C4;
+}
+.projectsblock .heading{
+    font-size: 15px;
+    color: #000;
+}
+.progressbar1{
+    height: 35px;
+    margin-bottom: 10px;
+}
+.img-slide1, .img-slide2, .img-slide3, .img-slide4, .img-slide5{
+    height: 118px;
+    width: 130px;
+}
+.testimonial-des{
+    position: relative;
+    top: 230px;
+    color: #000;
+    font-weight: bold;
+    padding-bottom: 200px;
+    background-color: aqua;
+}

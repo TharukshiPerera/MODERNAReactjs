@@ -1,0 +1,25 @@
+.services{
+    padding-top: 70px;
+}
+.services .card{
+    width: 250px;
+}
+.services .card-text{
+    color: #000
+}
+.services .container{
+    margin-top: 55px;
+    margin-bottom: 55px;
+}
+.img-why-us{
+    width: 550px;
+}
+.why-us p{
+    color: #000;
+}
+.why-us h5{
+    color: #000;
+}
+.img-Servicedetails{
+    width: 545px;
+}
